@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.drag_container {
+  border: 2px solid gray;
+  width: 50%;
+  height: 50px;
+  margin: 10px;
+}
+.drop_container {
+  border: 2px solid black;
+  width: 70%;
+  height: 200px;
+  margin: 10px;
+}
